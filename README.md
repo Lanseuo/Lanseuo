@@ -16,8 +16,7 @@ Talk to me about
 
 - 🖥️ Frontend development using **React** and **Vue.js**
 - ⛰️ Backend development using **Golang**, **Flask**, and **Spring Boot**
-- 🗃️ Databases using **PostgreSQL** and **MongoDB**
-- 📱 Mobile application development using **Flutter** (still learning)
+- 🗃️ Databases using **PostgreSQL**, **MongoDB**, and **ClickHouse**
 - 🐋 Containerization using **Docker**
 - 🚧 Creating scalable cloud architecture using **AWS**
 
